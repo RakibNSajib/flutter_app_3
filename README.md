@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## ScreenShot
+
+![ScreenShot](https://i.postimg.cc/DzL44NXh/Screenshot-2.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
